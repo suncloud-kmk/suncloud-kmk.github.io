@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.suncloud_kmk.twa",
+        "sha256_cert_fingerprints": ["34:8D:35:72:F6:9D:68:ED:4D:7C:24:19:68:6F:E1:F5:8E:01:76:DA:80:E3:42:C2:7E:11:7A:45:E4:F3:93:07"]
+      }
+    }]
