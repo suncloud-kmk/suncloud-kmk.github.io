@@ -1,0 +1,20 @@
+{
+  "name": "한끼채널",
+  "short_name": "한끼채널",
+  "description": "점심·저녁·야식, 옛날 TV 채널을 돌리듯 메뉴를 골라주는 앱",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2a2119",
+  "theme_color": "#2a2119",
+  "lang": "ko",
+  "dir": "ltr",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
